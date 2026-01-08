@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Sumit Rai from Punjab, India<br><br>- 🔭 I’m pursuing Computer Science Engineering.<br>- 📚 I'm a Web Developer.<br>- ⚡ In my free time I love exploring FOSS.</p>
+<p align="left">I'm Sumit Rai from Punjab, India<br><br>- 🔭 I’m pursuing Computer Science Engineering.<br>- 📚 I love Data Science & Analytics and Web Dev as well.<br>- ⚡ In my free time I love exploring FOSS.</p>
 
 ###
 
